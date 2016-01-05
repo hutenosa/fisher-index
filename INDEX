@@ -13,19 +13,19 @@ chart tool
 bucaran
 
 scaffold
-https://github.com/bucaran/scaffold
+https://github.com/bucaran/fish-scaffold
 Scaffold out a fish plugin
 create plugin generator boilerplate fish fisherman
 bucaran
 
 get
-https://github.com/bucaran/get
+https://github.com/bucaran/fish-get
 Press any key to continue
 stty read line ui cli key character
 bucaran
 
 submit
-https://github.com/bucaran/submit
+https://github.com/bucaran/fisher-submit
 Submit a plugin to the Fisherman Index
 fisherman contrib index plugin
 bucaran
