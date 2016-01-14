@@ -30,12 +30,8 @@ Submit a plugin to the Fisherman Index
 fisherman contrib index plugin
 bucaran
 
-bobthefish
-https://github.com/oh-my-fish/theme-bobthefish
-A Powerline-style, Git-aware fish theme optimized for awesome
-theme powerline awesome
-bobthecow
-
 shellder
 https://github.com/simnalamburt/shellder
 Powerline prompt optimized for speed, inspired by seoul256.vim
+theme prompt powerline speed
+simnalamburt
