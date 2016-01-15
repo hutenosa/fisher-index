@@ -47,3 +47,9 @@ https://github.com/rafaelrinaldi/pure
 Pretty, minimal and fast prompt
 theme prompt minimal simple sindresorhus pure
 rafaelrinaldi
+
+scorphish
+https://github.com/oh-my-fish/theme-scorphish
+Hot, angle bracket-based multline prompt
+theme prompt oh-my-fish multiline git angle
+scorphus
