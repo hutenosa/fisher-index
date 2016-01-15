@@ -53,3 +53,9 @@ https://github.com/oh-my-fish/theme-scorphish
 Hot, angle bracket-based multline prompt
 theme prompt oh-my-fish multiline git angle
 scorphus
+
+cmorrell
+https://github.com/oh-my-fish/theme-cmorrell.com
+Original, flat, left and right prompt.
+theme prompt oh-my-fish flat git right git
+inxilpro
