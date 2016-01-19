@@ -1,9 +1,15 @@
 # The Fisherman Index
 
+bass
+https://github.com/edc/bass
+Compatibility layer for bash utilities in Fish
+tool bash fish script wrapper env
+edc
+
 fishtape
 https://github.com/fisherman/fishtape
-TAP producer and test harness for fish
-test tool
+TAP producer and test harness for Fish
+test tool harness tap unit-testing
 bucaran
 
 shark
