@@ -1,5 +1,11 @@
 # The Fisherman Index
 
+autoenvstack
+https://github.com/hutenosa/autoenvstack
+Tree-based autoenv for fish
+env autoenv source autoenvfish cd set
+hutenosa
+
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities in Fish
